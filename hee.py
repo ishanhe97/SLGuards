@@ -10,6 +10,11 @@ import gi  #it is a binding. named pyGobject
 gi.require_version("Gst", "1.0")
 
 print("I am ishan edirisinghe")
+print("I am ishan edirisinghe")
+print("I am ishan edirisinghe")
+print("I am ishan edirisinghe")
+print("I am ishan edirisinghe")
+
 
 
 
